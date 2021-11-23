@@ -1,0 +1,17 @@
+p{
+    background-color: gray;
+}
+p.pertama{
+    background-color: orange;
+}
+p.kedua{
+    background-color: blue;
+}
+p.ketiga{
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    font-size: 150%;
+    background-color: white;
+}
+p.keempat{
+    font-weight: bold;
+}
